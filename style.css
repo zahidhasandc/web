@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    font-family: 'Odibee Sans', cursive;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.name-highlight{
+    color: rgb(147, 211, 82);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left:  5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+
+    background-image: url("image/top-banner.png");
+}
+section{
+    height: 500px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(109, 89, 109);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.Dream-area{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right ;
+}
+.orange-highlight{
+    color: rebeccapurple;
+}
+.single-Experiences{
+    box-shadow:10px 10px 40px sandybrown;
+    border-radius: 5px;
+    height: 60%;
+}
+.expericence-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( lightsalmon,tomato);
+    border-image-slice: 1;
+    
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image-slice: linear-gradient(blue, tomato;
+}
+footer p{
+    text-align: center;
+}
